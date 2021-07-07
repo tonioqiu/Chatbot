@@ -1,0 +1,67 @@
+1
+Te gusta los lugares pacificos o con mucha actividad? (pacificos / actividad)
+pacificos
+Te gusta la naturaleza o arquitectura? (naturaleza / arquitectura)
+arquitectura
+Te gusta edificaciones modernas o culturales? (moderna / cultural)
+culturales
+Te recomiendo ir al Shaolin Temple, ubicado en Luoyang. Donde encontraras templos y edificaciones llenos de historias. Este lugar se dice ser el origen del arte marcial KungFu
+
+1
+Te gusta los lugares pacificos o con mucha actividad? (pacificos / actividad)
+pacificos
+Te gusta la naturaleza o arquitectura? (naturaleza / arquitectura)
+arquitectura
+Te gusta edificaciones modernas o culturales? (moderna / cultural)
+moderno
+Te recomiendo ir a la Casa del Piano, ubicado en Anhui, donde encontraras un edificio dedicado a la musica, diseñado con paneles de vidrio de color blanco y negro, parecido a un piano.
+
+
+1
+Te gusta los lugares pacificos o con mucha actividad? (pacificos / actividad)
+pacificos
+Te gusta la naturaleza o arquitectura? (naturaleza / arquitectura)
+naturaleza
+Te gusta edificaciones modernas o culturales? (moderna / cultural)
+cultural
+Te recomiendo ir a la meseta del Tibet, ubicado en la region autonoma del tibet. donde encontraras una de las etnias minoritarias mas conocidas de china. Con sus extensa mesetas de naturaleza te sentiras uno con la naturaleza.
+
+
+1
+Te gusta los lugares pacificos o con mucha actividad? (pacificos / actividad)
+pacificos
+Te gusta la naturaleza o arquitectura? (naturaleza / arquitectura)
+naturaleza
+Te gusta edificaciones modernas o culturales? (moderna / cultural)
+moderna
+Te recomiendo ir a Yunan, donde encontraras una ciudad escondida entre la naturaleza, lo moderno con lo fresco. perfecto para pasar unas vacaciones relajantes sin desconectarse de lo moderno.
+
+1
+Te gusta los lugares pacificos o con mucha actividad? (pacificos / actividad)
+actividad
+Te gusta la naturaleza o arquitectura? (naturaleza / arquitectura)
+naturaleza
+Te gusta edificaciones modernas o culturales? (moderna / cultural)
+moderna
+Te recomiendo ir a Beijing y visitar sus parques, dentro de lla encontraras muchas actividades como parques de diversiones, zologicos, museos todo dentro de la capital de China.
+
+1
+Te gusta los lugares pacificos o con mucha actividad? (pacificos / actividad)
+actividad
+Te gusta la naturaleza o arquitectura? (naturaleza / arquitectura)
+naturaleza
+Te gusta edificaciones modernas o culturales? (moderna / cultural)
+cultural 
+Te recomiendo ir a palacion del rey y Tian An Men, donde visitaras las edificaciones de los antiguio reyes de china y asombrarte por el tamaño de las construcciones.
+
+1
+Te gusta los lugares pacificos o con mucha actividad? (pacificos / actividad)
+actividad
+Te gusta la naturaleza o arquitectura? (naturaleza / arquitectura)
+arquitectura
+Te gusta edificaciones modernas o culturales? (moderna / cultural)
+cultural 
+Te recomiendo ir a la gra muralla china, ydarte un paseo por esta maravilla del mundo.
+
+
+

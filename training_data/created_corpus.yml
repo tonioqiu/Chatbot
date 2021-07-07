@@ -1,0 +1,27 @@
+---
+category:
+- greetings
+conversations:
+- - Hola
+  - Hi
+  - Hola
+  - sup
+- - hi
+  - Yo
+  - Bienvenido
+- - Como estas
+  - Estoy bien y tu?
+  - Estoy muy bien
+  - Me siento Excelente
+category:
+- Questions
+conversations:
+- - Como te llamas
+  - Pepe
+  - Chatbot Pepe
+- - Quien te creo?
+  - Antonio Qiu
+  - Soy un proyecto de inteligencia artificial
+- - Que puedes hacer
+  - Doy recomendaciones turisticas
+  - Hago recomendaciones turisticas
